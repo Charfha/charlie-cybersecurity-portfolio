@@ -5,29 +5,29 @@ Welcome to my cybersecurity portfolio. This repository showcases hands-on projec
 ## 📌 About Me
 I’m a cybersecurity learner with 7+ years of experience in customer security support at Comcast and Affirm. I am completing the Google Cybersecurity Certificate and pursuing ISC2 CC and CompTIA Security+. I enjoy defensive security, problem-solving, and learning tools that strengthen systems and protect users.
 
-## 📁 Portfolio Contents
-This repository will include:
+## 📂 Portfolio Projects
+- **Professional Statement**  
+- **Security Audit**  
+- **Network Structure & Security Analysis**  
+- **Linux File Permissions Project**  
+- **SQL Filtering & Analysis**  
+- **Small Business Vulnerability Assessment**  
+- **Incident Handler’s Journal**  
+- **Log Parsing & Text Import Project**  
+- **Cybersecurity Resume**
 
-### 🔐 Security Audits
-- Botium Toys audit (Google Cybersecurity Certificate)
+Each folder contains a dedicated project with explanations, analysis, and results.
 
-### 🚨 Incident Response
-- Incident report practice scenarios
-- Security event documentation
+---
 
-### 📊 Log & Network Analysis
-- Basic SIEM-style investigations
-- Wireshark traffic analysis
+## 🛡️ About Me
+Cybersecurity learner with 7+ years of customer service, including customer security assurance tech II at Comcast and collections in Affirm.  
+Strong foundation in threat analysis, incident handling, and security tools (Splunk, Salesforce, Resin).
 
-### ⚠️ Risk Assessments
-- Risk identification and mitigation exercises
+## 🎓 Education
+B.A. in Commerce and International Business – Universidad Nacional (UNA)
 
-### 🧰 Tools & Skills
-- Splunk (beginner)
-- Linux fundamentals
-- Wireshark
-- Scripting (beginner)
-- Security concepts: CIA triad, least privilege, access controls, auditing, risk analysis
+---
 
 ## 📫 Contact
 **LinkedIn:** www.linkedin.com/in/charfha
